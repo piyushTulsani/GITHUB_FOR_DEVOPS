@@ -4,4 +4,4 @@ print("hey man")
 print("gym =consistency")
 
 print("good things are on the way")
-print("new)
+print("new")
