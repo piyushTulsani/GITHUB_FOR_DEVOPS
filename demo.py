@@ -1,7 +1,9 @@
 def my_function():
-  a=5
-  b=6
+    password = "test@123"
+    a = 5
 
-  return d
+    print(password)
+    return a
+
 
 my_function()
